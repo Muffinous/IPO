@@ -9,7 +9,7 @@
 9. El sistema tendrá una imagen de cada gato con sus respectivos nombres en la página de adopción.
 10. El sistema tendrá un apartado de "Contacto" con los datos de los desarrolladores de la página.
 11. El sistema tendrá
-Preguntas: ¿Quién pone a los gatos en adopción?, 
+Preguntas: ¿Quién pone a los gatos en adopción?, etc.  
 Diseño: 
 1. Modo nocturno solamente.
 2. Botón de acceso a Home (para la página main).
