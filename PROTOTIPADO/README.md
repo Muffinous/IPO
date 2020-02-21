@@ -43,7 +43,7 @@ Para llevar a cabo la recogida de datos y compartirla entre nosotros, hemos:
 11. El sistema tendrá una sección de preguntas: ¿Quién pone a los gatos en adopción?, etc.  
 12. La aplicación debe tener el modo nocturno solamente.
 13. La aplicación debe tener un botón de acceso a Home (para la página main), donde estarán todas las publicaciones por usuarios.
-14. La aplicación debe tener un botón de acceso al Perfil de usuario. *(no quedó claro)
+14. La aplicación debe tener un botón de acceso al Perfil de usuario. 
 15. La aplicación tendrá una pantalla login / sign up, permitiendo al usuario loggearse o registrarse.
 16. La aplicación tendrá un botón de ajustes donde el usuario podrá editar su usuario y contraseña.
 17. La aplicación tendrá un botón de Mapas para visualizar las localicaciones del Requisito 7.
