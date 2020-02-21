@@ -25,7 +25,7 @@ Para llevar a cabo la recogida de datos y compartirla entre nosotros, hemos:
 * Usado un teléfono móvil para grabar. Pidiendo previamente consentimiento a David, hemos podido grabar la entrevista para aclarar las posibles dudas que surgiesen más tarde.
 * Organizado el grupo para que Manuel se dedicase exclusivamente a preguntar y mantener el contacto con David, Raquel a documentar, Carlos estar pendiente de las aplicaciones que David mencionaba como ejemplo para obtener una idea más clara de lo que podría querer y Sebastian se ocupó de que todos cumpliesemos nuestro rol y que la entrevista fuese bien encaminada, además de estar pendiente en darse cuenta en qué momento el cliente no estaba totalmente seguro al responder.
 
-*Por otro lado, hemos usado , hemos usado Github. De manera que todos tenemos acceso a la información y podemos editarla en base a lo que el cliente necesita.
+*Por otro lado, hemos usado , hemos usado Github. De manera que todos tenemos acceso a la información y podemos editarla en base a lo que el cliente necesita.*
 
 
 # Requisitos
@@ -50,3 +50,4 @@ Para llevar a cabo la recogida de datos y compartirla entre nosotros, hemos:
 18. La aplicación tendrá un botón para acceder al apartado de adopción.
 19. La aplicación tendrá un botón para acceder a la sección de preguntas.
 
+Después de haber sacado la lista de los requisitos necesarios para el sistema, hemos llegado a la conclusión de que el mejor entorno de desarrollo que podemos usar es **Android Studio**, ya que esta diseñado especificamente para aplicaciones Android, uno de los requisitos más importantes que debemos cumplir y todos los miembros tenemos conocimiento previo de el. 
