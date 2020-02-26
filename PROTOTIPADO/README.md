@@ -31,6 +31,7 @@ Para llevar a cabo la recogida de datos y compartirla entre nosotros, hemos:
 # Requisitos
 
 1. Debe ser una aplicación para móvil Android.
+2. La aplicación funcionará desde la versión 7.1 de Android.
 2. La aplicación debe contener un apartado con publicaciones (memes, imagenes...).
 3. En el apartado de publicaciónes debe haber un scroll infinito (como el main de instagram, twitter...).
 4. Un usuario  tendrá la posibilidad de subir una publicación. *(no quedó claro)
@@ -40,14 +41,25 @@ Para llevar a cabo la recogida de datos y compartirla entre nosotros, hemos:
 8. El sistema tendrá un apartado de "Adopción" con una lista de gatos disponibles.
 9. El sistema tendrá una imagen de cada gato con sus respectivos nombres en la página de adopción.
 10. El sistema tendrá un apartado de "Contacto" con los datos de los desarrolladores de la página.
-11. El sistema tendrá una sección de preguntas: ¿Quién pone a los gatos en adopción?, etc.  
+11. El sistema tendrá una sección de preguntas frecuentes: ¿Quién pone a los gatos en adopción?, etc.  
 12. La aplicación debe tener el modo nocturno solamente.
 13. La aplicación debe tener un botón de acceso a Home (para la página main), donde estarán todas las publicaciones por usuarios.
 14. La aplicación debe tener un botón de acceso al Perfil de usuario. 
 15. La aplicación tendrá una pantalla login / sign up, permitiendo al usuario loggearse o registrarse.
 16. La aplicación tendrá un botón de ajustes donde el usuario podrá editar su usuario y contraseña.
-17. La aplicación tendrá un botón de Mapas para visualizar las localicaciones del Requisito 7.
+17. La aplicación tendrá un botón de Mapas para visualizar las localizaciones del Requisito 7.
 18. La aplicación tendrá un botón para acceder al apartado de adopción.
 19. La aplicación tendrá un botón para acceder a la sección de preguntas.
+20. El sistema tendrá un apartado de "Usuario" donde el usuario podrá administrar las preferencias de su cuenta.
+21. El sistema tendrá un apartado de "Datos" para contactar con usuarios que pongan anuncios de adopción de gatos.
+22. El sistema tendrá un botón en la pantalla principal para redirigir al usuario a su perfil.
+23. El sistema tendrá un menú en la parte inferior de la pantalla donde estarán los botones para navegar por la aplicación.
+24. El sistema tendrá un botón HOME en el menú inferior para regresar a la pantalla principal. 
+25. El sistema tendrá un botón en el menú inferior de navegación con una foto de un gato que llevará al usuario al apartado de adopciones.
+26. El sistema tendrá un botón en el menú inferior de navegación con una imagen de un mapa que le llevará a la pestaña de "Contacto".
+27. El sistema tendrá un formulario de subida de publicaciones para que los usuarios puedan subir la aportación que crean conveniente.
+28. El sistema tendrá un botón de subida de imágenes para que los usuarios puedan acompañar su aportación con una imagen.
+29. El sistema tendrá una caja de comentarios asociada a cada publicación.
+30. El sistema tendrá un formulario para realizar un comentario tanto si el usuario está registrado como si no lo está. 
 
 Después de haber sacado la lista de los requisitos necesarios para el sistema, hemos llegado a la conclusión de que el mejor entorno de desarrollo que podemos usar es **Android Studio**, ya que esta diseñado especificamente para aplicaciones Android, uno de los requisitos más importantes que debemos cumplir y todos los miembros tenemos conocimiento previo de el. 
