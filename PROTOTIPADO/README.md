@@ -3,8 +3,9 @@
 En este documento se pretende plasmar un informe en base a lo hablado con el cliente, pudiendo obtener datos como: el objetivo de la aplicación, los requisitos, novedades que pueda ofrecer el producto al mundo…
 
 # Perfil del cliente 
-Nuestro cliente David, tiene 20 años y es un apasionado de la música y los videojuegos, además, estudia Ingeniería del Software con Matemáticas a la vez que trabaja produciendo música para un videojuego en desarrollo. 
-*En resumen, es un estudiante universitario que trabaja y pasa la mayor parte de su día a día en contacto con ordenadores y teléfonos móvil.
+Nuestro cliente David tiene 20 años y es un apasionado de la música y los videojuegos.  
+Además, estudia un doble grado de Ingeniería del Software con Matemáticas a la vez que trabaja produciendo música para un videojuego que está en desarrollo. Por esto, pasa la mayor parte de su día a día en constante contacto con ordenadores y teléfonos móvil. 
+
 
 # El producto y las metas
 ………..............
